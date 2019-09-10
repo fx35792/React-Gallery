@@ -17,4 +17,5 @@ npm run build
 #前提本地已经安装了serve全局依赖
 serve ./dist
 ```
-
+#### 效果图
+[效果图](https://github.com/fx35792/React-Gallery/blob/master/src/assets/1.png)
