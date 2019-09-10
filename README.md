@@ -18,4 +18,4 @@ npm run build
 serve ./dist
 ```
 #### 效果图
-[效果图](https://github.com/fx35792/React-Gallery/blob/master/src/assets/1.png)
+![效果图](https://github.com/fx35792/React-Gallery/blob/master/src/assets/1.png)
