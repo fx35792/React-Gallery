@@ -40,13 +40,12 @@ class Index extends Component {
     });
   };
 
-//7.render 部分
-
 
   render() {
+    //7.render 部分
     const photos = [
-      { src: require('@/assets/1.jpeg') },
-      { src: require('@/assets/2.jpeg') }
+      { src: require('@/assets/1.jpeg'), width: 5, height: 3 },
+      { src: require('@/assets/2.jpeg'), width: 5, height: 3 },
     ];
     return (
       <div>
